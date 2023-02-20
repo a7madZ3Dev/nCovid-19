@@ -1,4 +1,4 @@
-# nCovid-19
+# nCovid-19 🦠🤢
 
 A simple app used to track the coronavirus, which includes information on confirmed cases as well as deaths. 
 Depending on Provider as State Management.
