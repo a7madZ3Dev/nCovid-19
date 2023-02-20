@@ -1,7 +1,7 @@
 # nCovid-19
 
 A simple app used to track the coronavirus, which includes information on confirmed cases as well as deaths. 
-Depending Provider as State Management.
+Depending on Provider as State Management.
 
 <div align="center">
 
@@ -51,7 +51,6 @@ API Used: https://disease.sh/
 ✅ Search about Country 
 
 ✅ Dark Mode
-
 <br>
 
 ## 🔑 License
